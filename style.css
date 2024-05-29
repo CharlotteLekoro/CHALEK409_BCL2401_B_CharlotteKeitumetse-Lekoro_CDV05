@@ -223,7 +223,7 @@ body {
   width: 50px;
   margin: 1rem 1rem 0 1rem;
   border-radius: 50%;
-  background-color: #53c8b6;
+  background-color: #2e151b;
 }
 
 .footer-links {
@@ -288,31 +288,31 @@ body {
 }
 
 .common-btn {
-  background-color: #35a99c;
-  color: #fff;
-  border: 2px solid #35a99c;
+  background-color: #2e151b;
+  color: wheat;
+  border: 2px solid #da7b93;
   transition: all 0.25s;
 }
 
 .common-btn:hover {
-  background-color: #fff;
-  color: #35a99c;
-  border: 2px solid #35a99c;
+  background-color: #da7b93;
+  color: #2e151b;
+  border: 2px solid #da7b93;
   outline: none;
 }
 
 .ghost-btn {
-  background-color: #fff;
-  color: #35a99c;
-  border: 2px solid #35a99c;
+  background-color: #da7b93;
+  color: #fff;
+  border: 2px solid #2e151b;
   outline: none;
 }
 
 .ghost-btn:hover {
-  background-color: #35a99c;
+  background-color: #2e151b;
   color: #fff;
   transition: all 0.25s;
-  border: 2px solid #35a99c;
+  border: 2px solid #da7b93;
 }
 
 .heading-span {
